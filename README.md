@@ -8,7 +8,7 @@ This portfolio contains a bio, links to completed and soon to be completed web p
 
 ## Visuals
 
-i[this is an image of the website](./Assets/Images/ptodd15.github.io_Paul-Todd-Portfolio_.png)
+![website screenshot](./Assets/Images/ptodd15.github.io_Paul-Todd-Portfolio_.png)
 
 ## Usage
 
