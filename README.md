@@ -8,7 +8,7 @@ This portfolio contains a bio, links to completed and soon to be completed web p
 
 ## Visuals
 
-i[this is an image of the website](ptodd15.github.io_Paul-Todd-Portfolio_.png)
+i[this is an image of the website](./Assets/Images/ptodd15.github.io_Paul-Todd-Portfolio_.png)
 
 ## Usage
 
@@ -21,4 +21,8 @@ None
 ## Authors and acknowledgment
 
 Acknowledgement to https://www.w3schools.com/default.asp without whom none of this would have been possible
-s
+
+## Links
+
+Wepage https://ptodd15.github.io/Paul-Todd-Portfolio/
+GitHub Repo https://github.com/ptodd15/Paul-Todd-Portfolio
