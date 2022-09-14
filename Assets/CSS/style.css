@@ -193,7 +193,14 @@ main {
 }
 
 .surf-report {
-    background-image: url("../Images/benjamin-voros-phIFdC6lA4E-unsplash.jpg");
+    background-image: linear-gradient(
+        to bottom right,
+        #33415c,
+        #33415c,
+        #ff0000,
+        #001845,
+        #001845
+      );;
 }
 
 .led-wall {
