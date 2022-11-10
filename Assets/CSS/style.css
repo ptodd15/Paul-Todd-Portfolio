@@ -203,9 +203,12 @@ main {
       );;
 }
 
-.led-wall {
-    background-image: url("../Images/felix-mittermeier-Knwea-mLGAg-unsplash.jpg");
+.bohde-market {
+    background-image: url("../Images/marketplace.jpg");
+    justify-content: center;
+    overflow: auto;
 }
+
 
 .calculator {
     background-image: url("../Images/john-fowler-RsRTIofe0HE-unsplash.jpg");
